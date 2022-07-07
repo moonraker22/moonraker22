@@ -1,5 +1,7 @@
-### ✨ Stay Inspired ✨ 
-
+# ✨ Stay Inspired ✨ 
+## ✨Learn Something Everyday✨
+<br />
+<br />
 
 
 <!--
