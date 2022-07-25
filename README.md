@@ -2,7 +2,7 @@
 ## ✨Learn Something Everyday✨
 <br />
 <br />
-[![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22)
+<!-- [![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22) -->
 
 <!--
 **moonraker22/moonraker22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
