@@ -1,6 +1,5 @@
-# ✨ Stay Inspired ✨ 
-## ✨Learn Something Everyday✨
-<br />
+#                                           ✨ Stay Inspired ✨ 
+![System Failure](https://images4.fanpop.com/image/photos/23900000/-The-Matrix-the-matrix-23939799-1360-768.jpg)
 <br />
 <!-- [![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22) -->
 
