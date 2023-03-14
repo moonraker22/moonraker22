@@ -1,5 +1,5 @@
 #                                           ✨🌙 Stay Inspired 🌙✨ 
-![MooNRakeR_Donuts](https://github.com/moonraker22/my-three-js-journey/blob/main/47-3d-text-with-r3f/public/Moon_960.jpg?raw=true)
+![MooNRakeR_Donuts](https://github.com/moonraker22/my-three-js-journey/blob/main/47-3d-text-with-r3f/public/MoonRaker-960.png?raw=true)
 <br />
 <!-- [![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22) -->
 
