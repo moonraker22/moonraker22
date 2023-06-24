@@ -7,6 +7,9 @@
 
 
 [![MooNRakeR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=645f4173-a092-46a2-bb30-72fc714721a9&theme=merko&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonraker22&layout=donut-vertical&theme=merko&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22) -->
 
 <!--
