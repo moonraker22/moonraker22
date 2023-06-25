@@ -22,7 +22,7 @@
 <br />
 
 <a href="https://github.com/moonraker22" >
-  <img height=235 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonraker22&theme=merko&bg_color=00000000" />
+  <img width=700 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonraker22&theme=merko&bg_color=00000000" />
 </a>
 
 <!-- [![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22) -->
