@@ -21,9 +21,9 @@
 </a>
 <br />
 
-<a href="https://github.com/moonraker22" >
+<!-- <a href="https://github.com/moonraker22" >
   <img width=700 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=moonraker22&theme=merko&bg_color=00000000" />
-</a>
+</a>-->
 
 <!-- [![MooNRakeR's github stats](https://github-readme-stats.vercel.app/api?username=moonraker22)](https://github.com/moonraker22) -->
 
